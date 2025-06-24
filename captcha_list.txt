@@ -51,7 +51,6 @@ adca
 adcx
 addd
 adde
-adhh
 adku
 adqu
 adro
