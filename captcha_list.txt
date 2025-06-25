@@ -6817,7 +6817,7 @@ kiro
 kirw
 kisa
 kiso
-kisp
+kisr
 kisu
 kite
 kiue
