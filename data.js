@@ -1,1 +1,1 @@
-export const availableAreas = {"available_areas": ["B8區5800", "B14區5800"], "timestamp": 1751381800};
+export const availableAreas = {"available_areas": ["C3區4800", "B5區5800"], "timestamp": 1751381807};
